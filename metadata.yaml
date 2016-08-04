@@ -1,0 +1,36 @@
+_repo: The-Cruise-of-the-Snark_2512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: In April 1907 Jack London set out to sail around the world in the 45-foot
+  ship The Snark, accompanied by his wife and a small crew. Although suffering from
+  seasickness and tropical disease, London wrote prolifically, including a series
+  of entertaining sketches of the voyage itself. These were later collected as The
+  Cruise of the Snark, a remarkable record of adventure and love among the islands
+  of the South Pacific. - Publisher.
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Description and travel'
+- !lcsh 'London, Jack, 1876-1916 -- Travel -- Oceania'
+- !lcsh 'Voyages and travels'
+- !lcc 'PS'
+- !lcsh 'Americans -- Oceania -- History -- 20th century'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Ocean travel'
+- GITenberg
+title: The Cruise of the Snark
+url: http://www.gutenberg.org/ebooks/2512
