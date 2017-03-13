@@ -1,5 +1,8 @@
 _repo: The-Cruise-of-the-Snark_2512
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ description: In April 1907 Jack London set out to sail around the world in the 4
   of entertaining sketches of the voyage itself. These were later collected as The
   Cruise of the Snark, a remarkable record of adventure and love among the islands
   of the South Pacific. - Publisher.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2512#The-Cruise-of-the-Snark
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
